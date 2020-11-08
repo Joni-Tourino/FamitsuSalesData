@@ -1,1 +1,1 @@
-# Lotsofdata
+# Famitsu weekly sales in Japan
