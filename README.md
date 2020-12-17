@@ -1,1 +1,3 @@
 # Famitsu weekly sales in Japan
+
+Round-up of 2020 with a closer view at games like Animal Crossing, who broke many records, or Ring Fit Adventure that keeps on selling...
