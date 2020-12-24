@@ -46,6 +46,7 @@
 *,
 *::before,
 *::after {
+  -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
 
@@ -69,6 +70,7 @@ body {
   color: #ebebeb;
   text-align: left;
   background-color: #2b3e50;
+  overflow-x: hidden;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -76,7 +78,8 @@ body {
 }
 
 hr {
-  box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
   height: 0;
   overflow: visible;
 }
@@ -84,6 +87,35 @@ hr {
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0.5rem;
+}
+
+.title{
+  padding-left:150px;
+  padding-right:150px;
+  font-size: 40px;
+  font-weight:400;
+}
+
+.bodytext{
+  padding-left:330px;
+  padding-right:330px;
+  font-size: 16px;
+  text-align: justify;
+}
+
+.quote{
+  padding-left:20px;
+  padding-right:20px;
+  font-size:19px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.caption{
+  padding-left:20px;
+  padding-right:20px;
+  font-size:12px;
+  font-style: italic;
 }
 
 p {
@@ -98,8 +130,8 @@ abbr[data-original-title] {
   text-decoration: underline dotted;
   cursor: help;
   border-bottom: 0;
-  -webkit-text-decoration-skip-ink: none;
-  text-decoration-skip-ink: none;
+-webkit-text-decoration-skip-ink: none;
+        text-decoration-skip-ink: none;
 }
 
 address {
@@ -113,6 +145,8 @@ ul,
 dl {
   margin-top: 0;
   margin-bottom: 1rem;
+  display: flex;
+  list-style: none;
 }
 
 ol ol,
