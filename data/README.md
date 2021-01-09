@@ -1,2 +1,3 @@
 In this file you can download the spreadsheets for Famitsu's sales in 2020, both for <a href="https://joni-tourino.github.io/FamitsuSalesData/">software</a> and <a href="https://joni-tourino.github.io/FamitsuSalesData/hardware.html">hardware</a>. If you want to download it in a CSV format, you can do it by accessing their respectives pages. But be aware you'll only be able to download each week separately in the CSV format and it may take more time.
-Famitsu will post the results for Weeks 52 and 53 on 7 January 2021. Once the results available, the files will be updated accordingly.
+Even though Famitsu considers Week 53 of 2020 as Week 1 of 2021, I choose to follow the 53 week format, otherwise the problem would repeat itself this year.
+The last two weeks for the hardware file are not complete for the PlayStation 4, as I was unable to find separate numbers for those two weeks and I prefer to leave it blank instead of putting an even number in each week.
