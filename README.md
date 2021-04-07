@@ -9,4 +9,6 @@ Round-up of the 2020 video game retail market via Famitsu's charts. You can read
 
 In the data file, you can download (in a .xlsx format) both the weekly results for video games and consoles published by <a href="https://www.famitsu.com/ranking/game-sales/">Famitsu</a> in 2020. Inside the file you'll find direct (when possible) links to the different sources used to gather the numbers on a weekly basis.
 
-Monthly software totals for the year 2021 have been added up until March. At the moment the only information given is the name of the game, the system(s) it was released on and its total. For games released in multiple systems, the total is counted based on the game and not each system separately.
+___________________________
+
+<b>Monthly</b> software totals for the year 2021 have been added up until <b>March</b>. At the moment the only information given is the name of the game, the system(s) it was released on and its total. For games released in multiple systems, the total is counted based on the game and not each system separately.
